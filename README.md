@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Exercice-Cadavre-Exquis-Jeoffrey
 
 Voilà une ligne de texte.
@@ -22,3 +23,8 @@ Et une autre
 Et encore une autre mouhaha  
 
 ~voilà~
+=======
+*Voici une première*
+**Une deuxième**
+Et une troisième, *Pour la **forme**!*
+>>>>>>> ajout-Lionel
